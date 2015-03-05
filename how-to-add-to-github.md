@@ -3,7 +3,7 @@ ref: http://stackoverflow.com/questions/4658606/import-existing-source-code-to-g
 if you've got local source code you want to add to a new remote new git repository without 'cloning' the remote first, 
 do the following (I often do this - you create your remote empty repository in bitbucket/github, then push up your source)
 
-1. Create the remote repository, and get the URL such as git@github.com:/youruser/somename.git or https://github.com/youruser/somename.git
+1. Create the remote repository, and get the URL such as 'git@github.com:/youruser/somename.git' or 'https://github.com/youruser/somename.git'
 
 If your local GIT repo is already set up, skips steps 2 and 3
 
